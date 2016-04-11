@@ -1,0 +1,5 @@
+- test.py error
+
+    parmed/formats/pdb.py", line 368, in parse
+        resid = int(resid)
+    ValueError: invalid literal for int() with base 10: ''
