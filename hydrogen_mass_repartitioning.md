@@ -7,7 +7,7 @@ parmed old.parm7 parm.in
 ```bash
 $ cat parm.in
 HMassRepartition
-outparm new.4fs.parm7
+outparm new.parm7
 ```
 
 - Use `dt=0.004`
