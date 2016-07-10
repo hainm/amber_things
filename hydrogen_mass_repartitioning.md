@@ -32,3 +32,7 @@ lengevin dynamics simulations
 ```bash
 pmemd -O -p new.parm7 -c rst7_file -i md.in
 ```
+
+- paper
+
+[Chad W. Hopkins et al.](http://pubs.acs.org/doi/abs/10.1021/ct5010406)
